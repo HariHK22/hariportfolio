@@ -16,7 +16,7 @@ export const About = () => {
               How are you? I'm Harikrishnan, an award-winning IoT specialist and freelancer. With extensive experience in IoT, embedded systems,   driving technological innovation and creating impactful solutions globally. My expertise includes advanced IoT solutions, sensor integration, and sustainable technology development.
               <br />
               <br />
-              With over 150 completed projects, I have a proven track record in IoT and embedded systems. My work includes developing advanced IoT solutions that optimize performance by 95%. I have led workshops, sharing hands-on experience and practical insights with students.
+              With over 100 completed projects, I have a proven track record in IoT and embedded systems. My work includes developing advanced IoT solutions that optimize performance by 95%. I have led workshops, sharing hands-on experience and practical insights with students.
             </p>
           </Reveal>
           <Reveal>
