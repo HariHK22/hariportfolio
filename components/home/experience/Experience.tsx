@@ -17,7 +17,7 @@ const experience = [
     title: "Freelancer",
     position: "IoT and Embedded",
     time: "Mar 2019 - Present",
-    location: "CPuducherry, India",
+    location: "Puducherry, India",
     description:
       "Elevated IoT & Embedded project performance by 100% through expertise gained from developing over 100+ projects as a freelancer.",
     tech: [
