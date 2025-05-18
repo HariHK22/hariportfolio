@@ -18,6 +18,24 @@ export const Projects = () => {
 
 const projects = [
   {
+    title: "SMART TALKING SPOON FOR THE VISUALLY IMPAIRED",
+    imgSrc: "/project-imgs/ECO-Flow.jpg",
+    code: "https://github.com/HariHK22/Ecoflow.git",
+    projectLink: "https://github.com/HariHK22/Ecoflow.git",
+    tech: ["ESP32", "Embedded C", "TTS"],
+    description: "Prototype",
+    modalContent: (
+      <>
+        <p>
+The Smart Talking Spoon is an IoT-based assistive device designed for visually impaired individuals to measure weight accurately and independently.
+It provides real-time voice feedback using sensor integration and microcontroller-based processing.
+The system enhances accessibility, promotes independent living, and supports remote monitoring through IoT connectivity.
+          <br/>
+      </p>
+      </>
+    ),
+  },
+  {
     title: "ECO-Flow",
     imgSrc: "/project-imgs/ECO-Flow.jpg",
     code: "https://github.com/HariHK22/Ecoflow.git",
