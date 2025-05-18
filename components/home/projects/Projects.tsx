@@ -106,7 +106,7 @@ const projects = [
   
   {
     title: "Smart Agricultural Protection and Monitoring System",
-    imgSrc: "/project-imgs/eagri.jpeg",
+    imgSrc: "public/project-imgs/spoon.png",
     code: "https://github.com/HariHK22/Eagri.git",
     projectLink: "https://github.com/HariHK22/Eagri.git",
     tech: ["ESP32", "Bylnk mobile app", "Sensor integration", "Actuator control"],
