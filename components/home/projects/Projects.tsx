@@ -28,7 +28,6 @@ const projects = [
       <>
         <p>
           The Smart Talking Spoon is an IoT-based assistive device designed for visually impaired individuals to measure weight accurately and independently. It provides real-time voice feedback using sensor integration and microcontroller-based processing. The system enhances accessibility, promotes independent living, and supports remote monitoring through IoT connectivity.
-          <br/>
       </p>
       </>
     ),
@@ -44,7 +43,6 @@ const projects = [
       <>
         <p>
         EcoFlow revolutionizes public bathroom infrastructure by integrating smart sensors, water management systems, and disinfection technology. This innovative solution aims to mitigate water wastage, reduce energy consumption, and enhance hygiene standards in public restrooms. By detecting user presence, optimizing resource usage, and deploying fog-based disinfection, EcoFlow ensures a sustainable and hygienic environment. With its environmental and social benefits, EcoFlow represents a significant step towards promoting sustainability and improving public health.
-          <br/>
       </p>
       </>
     ),
