@@ -16,6 +16,11 @@ export const Projects = () => {
   );
 };
 
+
+
+
+
+
 const projects = [
   {
     title: "SMART TALKING SPOON FOR THE VISUALLY IMPAIRED",
@@ -32,6 +37,12 @@ const projects = [
       </>
     ),
   },
+
+
+
+
+
+  
   {
     title: "ECO-Flow",
     imgSrc: "/project-imgs/ECO-Flow.jpg",
@@ -47,6 +58,12 @@ const projects = [
       </>
     ),
   },
+
+
+
+
+
+  
   {
     title: "IND - MUMB",
     imgSrc: "/project-imgs/MUMB.jpg",
@@ -64,6 +81,11 @@ const projects = [
       </>
     ),
   },
+
+
+
+  
+  
   {
     title: "Health Guardian",
     imgSrc: "/project-imgs/Health.jpg",
