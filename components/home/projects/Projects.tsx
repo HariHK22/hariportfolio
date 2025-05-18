@@ -19,7 +19,7 @@ export const Projects = () => {
 const projects = [
   {
     title: "SMART TALKING SPOON FOR THE VISUALLY IMPAIRED",
-    imgSrc: "public/project-imgs/spoon.png",
+    imgSrc: "/project-imgs/spoon.png",
     code: "https://github.com/HariHK22/Ecoflow.git",
     projectLink: "https://github.com/HariHK22/Ecoflow.git",
     tech: ["ESP32", "Embedded C", "TTS"],
