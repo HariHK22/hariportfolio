@@ -27,9 +27,7 @@ const projects = [
     modalContent: (
       <>
         <p>
-The Smart Talking Spoon is an IoT-based assistive device designed for visually impaired individuals to measure weight accurately and independently.
-It provides real-time voice feedback using sensor integration and microcontroller-based processing.
-The system enhances accessibility, promotes independent living, and supports remote monitoring through IoT connectivity.
+          The Smart Talking Spoon is an IoT-based assistive device designed for visually impaired individuals to measure weight accurately and independently. It provides real-time voice feedback using sensor integration and microcontroller-based processing. The system enhances accessibility, promotes independent living, and supports remote monitoring through IoT connectivity.
           <br/>
       </p>
       </>
